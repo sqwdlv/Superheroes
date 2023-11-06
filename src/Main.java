@@ -175,8 +175,6 @@ public class Main {
                             game_time = false;
                             System.out.println("Thank you for playing, see you another time!");
                             break;
-                        default:
-                            System.out.println("Your hero might have left!");
                     }
             }
 
